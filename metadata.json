@@ -1,0 +1,7 @@
+{
+  "name": "Calculator",
+  "description": "A modern, high-precision scientific calculator web application with calculation history, memory functions, keyboard support, and responsive design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
